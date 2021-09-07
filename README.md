@@ -3,7 +3,7 @@
 ## `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [https://parmeshwar4321.github.io/To-Do-app-with-React/](https://parmeshwar4321.github.io/To-Do-app-with-React/) to view it in the browser.
 
 ## How to Host the application on the Github Pages
 Github Pages is a static site hosting service. You can host your site on GitHub’s github.io domain or your custom domain
